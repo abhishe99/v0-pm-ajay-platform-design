@@ -1,10 +1,6 @@
 # PM-AJAY platform design
 
 
-
-[[Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/abhishek-tomars-projects-0c54a799/v0-pm-ajay-platform-design)
-[[Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/L4WrH1PI16B)
-
 ## Overview
   PM-AJAY Dashboard, a centralized digital platform for the
   management of the Adarsh Gram, GIA, and Hostel components of
