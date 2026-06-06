@@ -10,9 +10,7 @@
 ## Deployment
 
 Here the link of a project
-
-**[https://vercel.com/abhishek-tomars-projects-0c54a799/v0-pm-ajay-platform-design](https://vercel.com/abhishek-tomars-projects-0c54a799/v0-pm-ajay-platform-design)**
-
+**https://v0-pm-ajay-platform-design-abhishek-tomars-projects-0c54a799.vercel.app**
 ## Key Features
 •Centralized Agency Mapping: Create a digital repository of all implementing and executing
 agencies across states and UTs. This provides a clear, structured view of roles and
