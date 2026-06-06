@@ -9,7 +9,7 @@
 
 ## Deployment
 
-Your project is live at:
+Here the link of a project
 
 **[https://vercel.com/abhishek-tomars-projects-0c54a799/v0-pm-ajay-platform-design](https://vercel.com/abhishek-tomars-projects-0c54a799/v0-pm-ajay-platform-design)**
 
